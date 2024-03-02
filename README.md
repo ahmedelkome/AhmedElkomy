@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ahmed Elkomy 
+# Hi 👋,I'm Ahmed Elkomy 
 
 A dedicated, passionate, and self-motivated Android Developer
 
