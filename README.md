@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Ahmed Elkomy 
 
-I'm Ahmed Elkomy, a dedicated and passionate Android Developer.
+A dedicated, passionate, and self-motivated Android Developer
 
 - 💬 Ask me about **Android Development**
 - 📫 You can reach me at [ahmedelkomy.2889@gmail.com](mailto:ahmedelkomy.2889@gmail.com)
